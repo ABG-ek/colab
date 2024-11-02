@@ -6,4 +6,3 @@ abrakadabra
 
 simsalabim
 
-akhalay makhalay
